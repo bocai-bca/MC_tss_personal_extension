@@ -1,0 +1,8 @@
+{
+	"function":"set_enchantments",
+	"add":false,
+	"enchantments":{
+		"binding_curse":0,
+		"vanishing_curse":0
+	}
+}
